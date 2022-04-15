@@ -1,0 +1,36 @@
+{
+    "parameter": [
+        {
+            "ParamAngleX": "ParamAngleX"
+        },
+        {
+            "ParamAngleY": "ParamAngleY"
+        },
+        {
+            "ParamAngleZ": "ParamAngleZ"
+        },
+        {
+            "ParamEyeBallX": "ParamEyeBallX"
+        },
+        {
+            "ParamBodyAngleX": "ParamBodyAngleX"
+        },
+        {
+            "ParamEyeBallY": "ParamEyeBallY"
+        }
+    ],
+    "url": [
+        {
+            "motions/Mgirl10_tingge.motion3.json": "motions/Mgirl10_tingge.motion3.json"
+        },
+        {
+            "ATRI.moc3": "ATRI.moc3"
+        },
+        {
+            "textures/texture_00.png": "textures/texture_00.png"
+        }
+    ],
+    "center":[1,0.7],
+    
+    "model_scale":1.3
+}
